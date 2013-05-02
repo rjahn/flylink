@@ -12,7 +12,7 @@ Apache 2.0 (http://www.apache.org/licenses/)
 Installation instructions (Testlink)
 ------------------------------------
 
-1. Modify config.inc.php:
+* Modify config.inc.php:
 
 <pre>
 // ----------------------------------------------------------------------------
@@ -44,8 +44,8 @@ Installation instructions (Testlink)
 //$g_interface_bugs = 'NO';
 $g_interface_bugs = 'FLYSPRAY';</pre>
 
-2. Copy cfg/flyspray.cfg.php and change pre-configured values
-3. Modify lib/bugtracking/int_bugtracking.php
+* Copy cfg/flyspray.cfg.php and change pre-configured values
+* Modify lib/bugtracking/int_bugtracking.php
 
   <pre>
   $btslist = array('BUGZILLA','MANTIS','JIRA', 'JIRASOAP', 'TRACKPLUS','POLARION',
@@ -53,7 +53,7 @@ $g_interface_bugs = 'FLYSPRAY';</pre>
 
   </pre>
 
-4. Copy lib/bugtracking/int_flyspray.php
+* Copy lib/bugtracking/int_flyspray.php
 
   Change pre-configured status colors, if needed:
 
