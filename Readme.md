@@ -14,7 +14,7 @@ Installation instructions (Testlink)
 
 1. Modify config.inc.php:
 
-  <pre>
+<pre>
 // ----------------------------------------------------------------------------
 /* [Bug Tracking systems] */
 /**
