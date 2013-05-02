@@ -41,8 +41,8 @@ Installation instructions (Testlink)
  * 'FLYSPRAY'  : edit configuration in TL_ABS_PATH/cfg/flyspray.cfg.php
  * ]
  */
-//$g_interface_bugs = 'NO';
-$g_interface_bugs = 'FLYSPRAY';</pre>
+$g_interface_bugs = 'FLYSPRAY';
+</pre>
 
 * Copy cfg/flyspray.cfg.php and change pre-configured values
 * Modify lib/bugtracking/int_bugtracking.php
