@@ -42,8 +42,7 @@ Installation instructions (Testlink)
  * ]
  */
 //$g_interface_bugs = 'NO';
-$g_interface_bugs = 'FLYSPRAY';
-  </pre>
+$g_interface_bugs = 'FLYSPRAY';</pre>
 
 2. Copy cfg/flyspray.cfg.php and change pre-configured values
 3. Modify lib/bugtracking/int_bugtracking.php
