@@ -49,7 +49,7 @@ $g_interface_bugs = 'FLYSPRAY';
 
   <pre>
   $btslist = array('BUGZILLA','MANTIS','JIRA', 'JIRASOAP', 'TRACKPLUS','POLARION',
-  		    	 'EVENTUM','TRAC','SEAPINE','REDMINE','GFORGE','FOGBUGZ','YOUTRACK', 'FLYSPRAY');
+  		             'EVENTUM','TRAC','SEAPINE','REDMINE','GFORGE','FOGBUGZ','YOUTRACK', 'FLYSPRAY');
 
   </pre>
 
@@ -64,6 +64,7 @@ Support
 -------
 
 Use https://forum.sibvisions.com or send an email to support@sibvisions.com
+
 
 
 
